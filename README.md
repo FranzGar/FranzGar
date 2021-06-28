@@ -1,14 +1,14 @@
-# Hola, soy Francisco 
+# Hola, soy Francisco
+
 ## _Bienvenido a mi portafolio de GitHub_
 
+### Estoy interesado en:
 
-- 👋 Hi, I’m @FranzGar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Telecomunicaciones
+- Sistemas embebidos
+- Programación en JavaScript
 
-<!---
-FranzGar/FranzGar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Actualmente estoy aprendiendo en un diplomado acerca del internet de las cosas**
+
+Me gustaría seguir aprendiendo sobre los distintos lenguajes de programación,
+para así poder colaborar con la comunidad
