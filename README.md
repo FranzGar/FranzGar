@@ -1,14 +1,12 @@
-# Hola, soy Francisco
+# Hello, I'm Francisco
 
-## _Bienvenido a mi portafolio de GitHub_
+## _Welcome to my portfolio GitHub_
 
-### Estoy interesado en:
+### Im interested on:
 
-- Telecomunicaciones
-- Sistemas embebidos
-- Programación en JavaScript
+- Telecommunications
+- Embedded systems
 
-**Actualmente estoy aprendiendo, en un diplomado, acerca del internet de las cosas**
+**I'm currently learning about the internet of things in a diploma**
 
-Me gustaría seguir aprendiendo sobre los distintos lenguajes de programación,
-para así poder colaborar con la comunidad
+I would like to continue learning about the different programming languages, so that I can collaborate with the community
